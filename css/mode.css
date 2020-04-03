@@ -1,0 +1,72 @@
+/* SKILLS MODE*/
+#skillsMode
+{
+	background: #fff;
+}
+
+#skillsMode h5
+{
+	color: #000351;
+}
+
+#skillsMode .heading h2
+{
+	color: #000351;
+	text-transform: uppercase;
+}
+
+#skillsMode .progress
+{
+	height: 100%;
+	margin: 30px 20px;
+	backface-visibility: #9E9E9E;
+}
+
+#skillsMode .progress-bar
+{
+	background: #FAC921;
+}
+
+/* PROJETS MODE */
+#projetsMode
+{
+	background: #FAC921;
+}
+
+.carousel-control.left, .carousel-control.right
+{
+	color: #fff;
+}
+
+.carousel-indicators li
+{
+	border-color: #fff;
+}
+
+.carousel-indicators li:active
+{
+	background-color: #9E9E9E; 
+}
+
+#myCarousel
+{
+	background-color: #FAC921;
+	height: 350px;
+	width: 550px;
+}
+
+#myCarousel .item h3
+{
+	color: #fff;
+}
+
+#myCarousel .item h4
+{
+	color: #9E9E9E;
+}
+
+#myCarousel .item img
+{
+	height: 275px;
+	width: auto;
+}
