@@ -1,4 +1,8 @@
 /* GENERAL */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 body
 {
 	font-family:'lato', sans-serif;
@@ -60,8 +64,8 @@ margin: 0 auto;
 .navbar
 {
 	background: #FAC921;
-	font-size: 12px;
-	letter-spacing: 2px;
+	font-size: 15px;
+	letter-spacing: 3px;
 	font-weight: bold;
 }
 
@@ -77,31 +81,10 @@ margin: 0 auto;
 	text-align: center;
 }
 
-.navbar:hover li a
-{
-	transform: scale(1.5);
-	opacity: .2;
-	filter: blur(5px);
-}
-
-.collapse navbar-collapse:hover li a
-{
-	transform: scale(1.5);
-	opacity: .2;
-	filter: blur(5px);
-}
-
-
 .navbar li a
 {
 	color: #fff !important;
 	cursor: pointer;
-}
-
-.navbar li a:hover li.active a
-{
-	color: #FAC921 !important;
-	background-color: #fff !important;
 }
 
 .navbar .button::before
@@ -109,30 +92,6 @@ margin: 0 auto;
 	background: #fff;
 	border: 1px;
 	border-color: #FAC921;
-}
-
-.button::before
-{
-	content: "";
-	position: absolute;
-	left: 0;
-	width: 100%;
-	height: 0%;
-	z-index: -1;
-	transition: 0.8s;
-	top: 0;
-	border-radius: 0 0 50% 50%;
-}
-
-.navbar .button:hover::before
-{
-	color: #FAC921 !important;
-	height: 175%;
-}
-
-.navbar-default .navbar-toggle
-{
-	border-style: none;
 }
 
 .icon-bar
@@ -231,7 +190,7 @@ position: relative;
 	font-size: 20px;
 	text-align: center;
 	position: absolute;
-	top: 16 px;
+	top: 16px;
 	left: 50%;
 	margin-left: -25px;
 	background-color: #ddd;

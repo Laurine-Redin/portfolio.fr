@@ -48,24 +48,305 @@
 	background-color: #9E9E9E; 
 }
 
-#myCarousel
-{
-	background-color: #FAC921;
-	height: 350px;
-	width: 550px;
+.timeline-panel-container-photo > .item > img {
+  margin: 0 auto;
 }
 
-#myCarousel .item h3
+/*ROBOT*/
+#robot
+{
+	background-color: #FAC921;
+	height: 25%;
+	width: 45%;
+	margin: 10px;
+}
+
+#robot .item h3
 {
 	color: #fff;
 }
 
-#myCarousel .item h4
+#robot .item h4
 {
 	color: #9E9E9E;
 }
 
-#myCarousel .item img
+#robot .item img
+{
+	height: 275px;
+	width: auto;
+}
+
+/*mission-locale*/
+#mission-locale
+{
+	background-color: #FAC921;
+	height: 25%;
+	width: 45%;
+	margin: 10px;
+}
+
+#mission-locale .item h3
+{
+	color: #fff;
+}
+
+#mission-locale .item h4
+{
+	color: #9E9E9E;
+}
+
+#mission-locale .item img
+{
+	height: 275px;
+	width: auto;
+}
+
+/*ptut*/
+#ptut
+{
+	background-color: #FAC921;
+	height: 25%;
+	width: 45%;
+	margin: 10px;
+}
+
+#ptut .item h3
+{
+	color: #fff;
+}
+
+#ptut .item h4
+{
+	color: #9E9E9E;
+}
+
+#ptut .item img
+{
+	height: 275px;
+	width: auto;
+}
+
+/*lampe*/
+#lampe
+{
+	background-color: #FAC921;
+	height: 25%;
+	width: 45%;
+	margin: 10px;
+}
+
+#lampe .item h3
+{
+	color: #fff;
+}
+
+#lampe .item h4
+{
+	color: #9E9E9E;
+}
+
+#lampe .item img
+{
+	height: 275px;
+	width: auto;
+}
+
+/*lampe*/
+#lampe
+{
+	background-color: #FAC921;
+	height: 25%;
+	width: 45%;
+	margin: 10px;
+}
+
+#lampe .item h3
+{
+	color: #fff;
+}
+
+#lampe .item h4
+{
+	color: #9E9E9E;
+}
+
+#lampe .item img
+{
+	height: 275px;
+	width: auto;
+}
+
+/*voiture*/
+#voiture
+{
+	background-color: #FAC921;
+	height: 25%;
+	width: 45%;
+	margin: 10px;
+}
+
+#voiture .item h3
+{
+	color: #fff;
+}
+
+#voiture .item h4
+{
+	color: #9E9E9E;
+}
+
+#voiture .item img
+{
+	height: 275px;
+	width: auto;
+}
+
+/*ptut2*/
+#ptut2
+{
+	background-color: #FAC921;
+	height: 25%;
+	width: 45%;
+	margin: 10px;
+}
+
+#ptut2 .item h3
+{
+	color: #fff;
+}
+
+#ptut2 .item h4
+{
+	color: #9E9E9E;
+}
+
+#ptut2 .item img
+{
+	height: 275px;
+	width: auto;
+}
+
+/*chaise*/
+#chaise
+{
+	background-color: #FAC921;
+	height: 25%;
+	width: 45%;
+	margin: 10px;
+}
+
+#chaise .item h3
+{
+	color: #fff;
+}
+
+#chaise .item h4
+{
+	color: #9E9E9E;
+}
+
+#chaise .item img
+{
+	height: 275px;
+	width: auto;
+}
+
+/*prison*/
+#prison
+{
+	background-color: #FAC921;
+	height: 25%;
+	width: 45%;
+	margin: 10px;
+}
+
+#prison .item h3
+{
+	color: #fff;
+}
+
+#prison .item h4
+{
+	color: #9E9E9E;
+}
+
+#prison .item img
+{
+	height: 275px;
+	width: auto;
+}
+
+/*meubles*/
+#meubles
+{
+	background-color: #FAC921;
+	height: 25%;
+	width: 45%;
+	margin: 10px;
+}
+
+#meubles .item h3
+{
+	color: #fff;
+}
+
+#meubles .item h4
+{
+	color: #9E9E9E;
+}
+
+#meubles .item img
+{
+	height: 275px;
+	width: auto;
+}
+
+/*verriere*/
+#verriere
+{
+	background-color: #FAC921;
+	height: 25%;
+	width: 45%;
+	margin: 10px;
+}
+
+#verriere .item h3
+{
+	color: #fff;
+}
+
+#verriere .item h4
+{
+	color: #9E9E9E;
+}
+
+#verriere .item img
+{
+	height: 275px;
+	width: auto;
+}
+
+/*verriere-aqua*/
+#verriere-aqua
+{
+	background-color: #FAC921;
+	height: 25%;
+	width: 45%;
+	margin: 10px;
+}
+
+#verriere-aqua .item h3
+{
+	color: #fff;
+}
+
+#verriere-aqua .item h4
+{
+	color: #9E9E9E;
+}
+
+#verriere-aqua .item img
 {
 	height: 275px;
 	width: auto;
