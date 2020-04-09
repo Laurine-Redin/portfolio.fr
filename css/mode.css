@@ -351,3 +351,12 @@
 	height: 275px;
 	width: auto;
 }
+
+.item {
+  width: 100%;
+}
+
+.item img {
+  display:block;
+  margin: auto;
+}

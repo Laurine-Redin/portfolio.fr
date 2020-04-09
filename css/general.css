@@ -296,6 +296,7 @@ position: relative;
 .img-row img 
 {
 	width: 200px;
+	align-items: center;
 }
 
 li
@@ -321,34 +322,4 @@ li
 {
 	padding-right: 2rem; 
 	padding-left: 2rem;
-}
-
-/* FOOTER */
-footer
-{
-	background: #FAC921;
-	padding: 20px 0 40px;
-}
-
-footer .glyphicon
-{
-	font-size: 25px;
-	margin: 20px;
-	color: #fff;
-	height: 30px;
-}
-
-footer .glyphicon:hover
-{
-	font-size: 27px;
-}
-
-.wave
-{
-	position: absolute;
-	width: 100%;
-	height: 143px;
-	bottom: 0;
-	left: 0;
-	background: url(files/wave.png);
 }
